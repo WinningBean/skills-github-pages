@@ -1,0 +1,8 @@
+theme: minima
+timezone: Asia/Seoul
+title: "Beeni Dev Blog"
+author:
+  name     : "Beeni"
+  avatar   : "https://avatars.githubusercontent.com/u/53260922?v=4"
+  bio      : "퍼블리셔로 시작해 백엔드 개발자입니다. 풀스택 개발을 지향합니다."
+  location : "Seoul, South Korea"
