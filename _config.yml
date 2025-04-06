@@ -1,6 +1,11 @@
-theme: minima
-timezone: Asia/Seoul
 title: "Beeni Dev Blog"
 author:
   name: WinningBean
   email: winningBean@gmail.com
+
+theme: minima
+timezone: Asia/Seoul
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
